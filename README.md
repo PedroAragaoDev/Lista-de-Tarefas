@@ -1,2 +1,3 @@
-# Lista-de-Tarefas
-Uma lista de tarefas simples feita com JavaScript puro. Inclui salvamento automático e remoção de tarefas.
+# 📝 Lista de Tarefas
+Uma aplicação simples de lista de tarefas feita com HTML, CSS e JavaScript puro.
+O usuário pode adicionar, remover e salvar automaticamente as tarefas usando o LocalStorage do navegador.
